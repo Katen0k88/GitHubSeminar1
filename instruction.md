@@ -27,3 +27,6 @@
 
 ### git diff 
 Для того, чтобы увидеть разницу между текущим файлом и закоммиченным файлом необходимо выполнить команду "git diff"
+
+### Справочник по Markdown от Microsoft:
+<https://docs.microsoft.com/ru-ru/contribute/markdown-reference>
